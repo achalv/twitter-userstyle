@@ -273,6 +273,10 @@ body {
 .original-tweet-container .original-tweet {
   background-color: #fff !important;
 }
+._timestamp {
+	position: absolute;
+  right: 10px;
+}
 
 /* Tweet actions */
 .tweet-actions {
@@ -350,6 +354,7 @@ body {
 .context .with-icn .Icon--follower:before {
   content: "\f056" !important;
 }
+
 
 /* Permalinks */
 .inline-reply-tweetbox,
