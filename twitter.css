@@ -275,7 +275,10 @@ body {
 }
 ._timestamp {
 	position: absolute;
-  right: 10px;
+	right: 15px;
+}
+span.metadata {
+	margin-left: 180px;
 }
 
 /* Tweet actions */
